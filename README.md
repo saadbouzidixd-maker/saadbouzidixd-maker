@@ -17,13 +17,13 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,cs,python,javascript,typescript,html,css,sql,bash,lua,php,rust,go" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,cs,python,javascript,typescript,html,css,php,ruby,rust,go,swift,dart,solidity,lua,bash,powershell" />
 </p>
 
 <h3 align="center">Frameworks & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,vite,electron,spring,javafx" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,vite,electron,tailwind,graphql,gradle,maven" />
 </p>
 
 <h3 align="center">Minecraft Development</h3>
@@ -34,18 +34,25 @@
   <img src="https://img.shields.io/badge/Bukkit-262626?style=for-the-badge&logo=minecraft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Velocity-5865F2?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge&logo=fabric&logoColor=111111"/>
+  <img src="https://img.shields.io/badge/Forge-8A8A8A?style=for-the-badge&logo=curseforge&logoColor=white"/>
 </p>
 
 <h3 align="center">Databases & Infrastructure</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis,docker,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis,postgresql,docker,kubernetes,linux,nginx" />
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Tools & Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,intellijidea,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,intellijidea,vscode,visualstudio,postman,figma" />
+</p>
+
+<h3 align="center">Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,arch" />
 </p>
 
 ---
