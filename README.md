@@ -37,28 +37,34 @@
   <img src="https://img.shields.io/badge/Forge-8A8A8A?style=for-the-badge&logo=curseforge&logoColor=white"/>
 </p>
 
-<h3 align="center">Databases & Infrastructure</h3>
+<h3 align="center">Development Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis,postgresql,docker,kubernetes,linux,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,visualstudio,maven,gradle,npm,pnpm,cmake" />
 </p>
 
-<h3 align="center">Tools & Development</h3>
+<h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,intellijidea,vscode,visualstudio,postman,cmake,npm,pnpm,yarn" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis,postgresql" />
 </p>
 
-<h3 align="center">Desktop & UI</h3>
+<h3 align="center">Desktop & Application Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javafx,electron,qt,flutter" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,qt,electron,flutter" />
 </p>
 
-<h3 align="center">Operating Systems & Environments</h3>
+<h3 align="center">Servers & Infrastructure</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,arch" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,ubuntu,debian,arch,kubernetes" />
+</p>
+
+<h3 align="center">Web Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,vite,tailwind" />
 </p>
 
 <h3 align="center">Version Control & Collaboration</h3>
