@@ -17,13 +17,13 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,cs,python,javascript,typescript,html,css,php,ruby,rust,go,swift,dart,solidity,lua,bash,powershell" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cpp,c,cs,python,javascript,typescript,html,css,php,ruby,rust,go,swift,dart,lua,bash,powershell" />
 </p>
 
 <h3 align="center">Frameworks & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,vite,electron,tailwind,graphql,gradle,maven" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,vite,electron,tailwind,graphql" />
 </p>
 
 <h3 align="center">Minecraft Development</h3>
@@ -46,13 +46,25 @@
 <h3 align="center">Tools & Development</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,intellijidea,vscode,visualstudio,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,maven,gradle,intellijidea,vscode,visualstudio,postman,cmake,npm,pnpm,yarn" />
 </p>
 
-<h3 align="center">Platforms</h3>
+<h3 align="center">Desktop & UI</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javafx,electron,qt,flutter" />
+</p>
+
+<h3 align="center">Operating Systems & Environments</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,arch" />
+</p>
+
+<h3 align="center">Version Control & Collaboration</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
 
 ---
